@@ -1,6 +1,9 @@
 # dumbpad
 
+Single-encoder version:
 ![dumbpad](https://i.imgur.com/sS3fq1Z.jpg)
+Dual-encoder version:
+![dumbpad](https://i.imgur.com/OkSRXWT.jpg)
 ![dumbpad](dumbpad.png)
 
 dumbpad-dualencoder is a simple 4x4 macro/numpad with two rotary encoders. It is designed for the ATmega32u4-based Pro Micro running [QMK firmware](https://github.com/qmk/qmk_firmware).
