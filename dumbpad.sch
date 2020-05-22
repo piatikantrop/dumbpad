@@ -345,435 +345,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="-6.985" y="0" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;Name</text>
 <text x="6.985" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center">&gt;Value</text>
 </package>
-<package name="TACTILE_SWITCH_PTH_6.0MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - PTH, 6.0mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf"&gt;Datasheet&lt;/a&gt; (B3F-1000)&lt;/p&gt;</description>
-<wire x1="3.048" y1="1.016" x2="3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="2.54" x2="2.54" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="-2.54" x2="3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="2.54" x2="-3.048" y2="1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="-2.54" x2="-3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="3.048" x2="2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.159" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="21"/>
-<wire x1="-2.159" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="21"/>
-<wire x1="3.048" y1="0.998" x2="3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-3.048" y1="1.028" x2="-3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-2.54" y1="1.27" x2="-2.54" y2="0.508" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-0.508" x2="-2.54" y2="-1.27" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="0.508" x2="-2.159" y2="-0.381" width="0.2032" layer="51"/>
-<circle x="0" y="0" radius="1.778" width="0.2032" layer="21"/>
-<pad name="1" x="-3.2512" y="2.2606" drill="1.016" diameter="1.8796"/>
-<pad name="2" x="3.2512" y="2.2606" drill="1.016" diameter="1.8796"/>
-<pad name="3" x="-3.2512" y="-2.2606" drill="1.016" diameter="1.8796"/>
-<pad name="4" x="3.2512" y="-2.2606" drill="1.016" diameter="1.8796"/>
-<text x="0" y="3.302" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-3.175" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_4.5MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 4.5mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://spec_sheets.e-switch.com/specs/P010338.pdf"&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="1.905" y1="1.27" x2="1.905" y2="0.445" width="0.127" layer="51"/>
-<wire x1="1.905" y1="0.445" x2="2.16" y2="-0.01" width="0.127" layer="51"/>
-<wire x1="1.905" y1="-0.23" x2="1.905" y2="-1.115" width="0.127" layer="51"/>
-<wire x1="-2.25" y1="2.25" x2="2.25" y2="2.25" width="0.127" layer="51"/>
-<wire x1="2.25" y1="2.25" x2="2.25" y2="-2.25" width="0.127" layer="51"/>
-<wire x1="2.25" y1="-2.25" x2="-2.25" y2="-2.25" width="0.127" layer="51"/>
-<wire x1="-2.25" y1="-2.25" x2="-2.25" y2="2.25" width="0.127" layer="51"/>
-<wire x1="-2.2" y1="0.8" x2="-2.2" y2="-0.8" width="0.2032" layer="21"/>
-<wire x1="1.3" y1="2.2" x2="-1.3" y2="2.2" width="0.2032" layer="21"/>
-<wire x1="2.2" y1="-0.8" x2="2.2" y2="0.8" width="0.2032" layer="21"/>
-<wire x1="-1.3" y1="-2.2" x2="1.3" y2="-2.2" width="0.2032" layer="21"/>
-<wire x1="2.2" y1="0.8" x2="1.8" y2="0.8" width="0.2032" layer="21"/>
-<wire x1="2.2" y1="-0.8" x2="1.8" y2="-0.8" width="0.2032" layer="21"/>
-<wire x1="-1.8" y1="0.8" x2="-2.2" y2="0.8" width="0.2032" layer="21"/>
-<wire x1="-1.8" y1="-0.8" x2="-2.2" y2="-0.8" width="0.2032" layer="21"/>
-<circle x="0" y="0" radius="1.27" width="0.2032" layer="21"/>
-<smd name="1" x="2.225" y="1.75" dx="1.1" dy="0.7" layer="1" rot="R90"/>
-<smd name="2" x="2.225" y="-1.75" dx="1.1" dy="0.7" layer="1" rot="R90"/>
-<smd name="3" x="-2.225" y="-1.75" dx="1.1" dy="0.7" layer="1" rot="R90"/>
-<smd name="4" x="-2.225" y="1.75" dx="1.1" dy="0.7" layer="1" rot="R90"/>
-<text x="0" y="2.413" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-2.413" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_PTH_12MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - PTH, 12mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf"&gt;Datasheet&lt;/a&gt; (B3F-5050)&lt;/p&gt;</description>
-<wire x1="5" y1="-1.3" x2="5" y2="-0.7" width="0.2032" layer="51"/>
-<wire x1="5" y1="-0.7" x2="4.5" y2="-0.2" width="0.2032" layer="51"/>
-<wire x1="5" y1="0.2" x2="5" y2="1" width="0.2032" layer="51"/>
-<wire x1="-6" y1="4" x2="-6" y2="5" width="0.2032" layer="21"/>
-<wire x1="-5" y1="6" x2="5" y2="6" width="0.2032" layer="21"/>
-<wire x1="6" y1="5" x2="6" y2="4" width="0.2032" layer="21"/>
-<wire x1="6" y1="1" x2="6" y2="-1" width="0.2032" layer="21"/>
-<wire x1="6" y1="-4" x2="6" y2="-5" width="0.2032" layer="21"/>
-<wire x1="5" y1="-6" x2="-5" y2="-6" width="0.2032" layer="21"/>
-<wire x1="-6" y1="-5" x2="-6" y2="-4" width="0.2032" layer="21"/>
-<wire x1="-6" y1="-1" x2="-6" y2="1" width="0.2032" layer="21"/>
-<wire x1="-6" y1="5" x2="-5" y2="6" width="0.2032" layer="21" curve="-90"/>
-<wire x1="5" y1="6" x2="6" y2="5" width="0.2032" layer="21" curve="-90"/>
-<wire x1="6" y1="-5" x2="5" y2="-6" width="0.2032" layer="21" curve="-90"/>
-<wire x1="-5" y1="-6" x2="-6" y2="-5" width="0.2032" layer="21" curve="-90"/>
-<circle x="0" y="0" radius="3.5" width="0.2032" layer="21"/>
-<circle x="-4.5" y="4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="4.5" y="4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="4.5" y="-4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="-4.5" y="-4.5" radius="0.3" width="0.7" layer="21"/>
-<pad name="4" x="-6.25" y="2.5" drill="1.2" diameter="2.159"/>
-<pad name="2" x="-6.25" y="-2.5" drill="1.2" diameter="2.159"/>
-<pad name="1" x="6.25" y="-2.5" drill="1.2" diameter="2.159"/>
-<pad name="3" x="6.25" y="2.5" drill="1.2" diameter="2.159"/>
-<text x="0" y="6.223" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-6.223" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_6.0X3.5MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 6.0 x 3.5 mm&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.sparkfun.com/datasheets/Components/1101.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="-3" y1="1.1" x2="-3" y2="-1.1" width="0.127" layer="51"/>
-<wire x1="3" y1="1.1" x2="3" y2="-1.1" width="0.127" layer="51"/>
-<wire x1="-2.75" y1="1.75" x2="-3" y2="1.5" width="0.2032" layer="21" curve="90"/>
-<wire x1="-2.75" y1="1.75" x2="2.75" y2="1.75" width="0.2032" layer="21"/>
-<wire x1="2.75" y1="1.75" x2="3" y2="1.5" width="0.2032" layer="21" curve="-90"/>
-<wire x1="3" y1="-1.5" x2="2.75" y2="-1.75" width="0.2032" layer="21" curve="-90"/>
-<wire x1="2.75" y1="-1.75" x2="-2.75" y2="-1.75" width="0.2032" layer="21"/>
-<wire x1="-3" y1="-1.5" x2="-2.75" y2="-1.75" width="0.2032" layer="21" curve="90"/>
-<wire x1="-3" y1="-1.5" x2="-3" y2="-1.1" width="0.2032" layer="21"/>
-<wire x1="-3" y1="1.1" x2="-3" y2="1.5" width="0.2032" layer="21"/>
-<wire x1="3" y1="1.1" x2="3" y2="1.5" width="0.2032" layer="21"/>
-<wire x1="3" y1="-1.5" x2="3" y2="-1.1" width="0.2032" layer="21"/>
-<wire x1="-1.5" y1="0.75" x2="1.5" y2="0.75" width="0.2032" layer="21"/>
-<wire x1="1.5" y1="-0.75" x2="-1.5" y2="-0.75" width="0.2032" layer="21"/>
-<wire x1="-1.5" y1="-0.75" x2="-1.5" y2="0.75" width="0.2032" layer="21"/>
-<wire x1="1.5" y1="-0.75" x2="1.5" y2="0.75" width="0.2032" layer="21"/>
-<wire x1="-2" y1="0" x2="-1" y2="0" width="0.127" layer="51"/>
-<wire x1="-1" y1="0" x2="0.1" y2="0.5" width="0.127" layer="51"/>
-<wire x1="0.3" y1="0" x2="2" y2="0" width="0.127" layer="51"/>
-<smd name="1" x="-3.15" y="0" dx="2.3" dy="1.6" layer="1" rot="R180"/>
-<smd name="2" x="3.15" y="0" dx="2.3" dy="1.6" layer="1" rot="R180"/>
-<text x="0" y="1.905" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-1.905" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_6.2MM_TALL">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 6.2mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.apem.com/files/apem/brochures/ADTS6-ADTSM-KTSC6.pdf"&gt;Datasheet&lt;/a&gt; (ADTSM63NVTR)&lt;/p&gt;</description>
-<wire x1="-3" y1="-3" x2="3" y2="-3" width="0.2032" layer="21"/>
-<wire x1="3" y1="-3" x2="3" y2="3" width="0.2032" layer="21"/>
-<wire x1="3" y1="3" x2="-3" y2="3" width="0.2032" layer="21"/>
-<wire x1="-3" y1="3" x2="-3" y2="-3" width="0.2032" layer="21"/>
-<circle x="0" y="0" radius="1.75" width="0.2032" layer="21"/>
-<smd name="A1" x="-3.975" y="-2.25" dx="1.3" dy="1.55" layer="1" rot="R90"/>
-<smd name="A2" x="3.975" y="-2.25" dx="1.3" dy="1.55" layer="1" rot="R90"/>
-<smd name="B1" x="-3.975" y="2.25" dx="1.3" dy="1.55" layer="1" rot="R90"/>
-<smd name="B2" x="3.975" y="2.25" dx="1.3" dy="1.55" layer="1" rot="R90"/>
-<text x="0" y="3.175" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-3.175" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - PTH, Right-angle&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SW016.JPG"&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="1.5" y1="-3.8" x2="-1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="-2" x2="-3.65" y2="3.5" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="3.5" x2="-3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3" y1="3.5" x2="3.65" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3.65" y1="3.5" x2="3.65" y2="-2" width="0.127" layer="51"/>
-<wire x1="-3" y1="2" x2="3" y2="2" width="0.127" layer="51"/>
-<wire x1="-3" y1="2" x2="-3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3" y1="2" x2="3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="-2" x2="-1.5" y2="-2" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-2" x2="1.5" y2="-2" width="0.127" layer="51"/>
-<wire x1="1.5" y1="-2" x2="3.65" y2="-2" width="0.127" layer="51"/>
-<wire x1="1.5" y1="-2" x2="1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-2" x2="-1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-3.777" y1="1" x2="-3.777" y2="-2.127" width="0.2032" layer="21"/>
-<wire x1="-3.777" y1="-2.127" x2="3.777" y2="-2.127" width="0.2032" layer="21"/>
-<wire x1="3.777" y1="-2.127" x2="3.777" y2="1" width="0.2032" layer="21"/>
-<wire x1="2" y1="2.127" x2="-2" y2="2.127" width="0.2032" layer="21"/>
-<pad name="ANCHOR1" x="-3.5" y="2.5" drill="1.2" diameter="2.2" stop="no"/>
-<pad name="ANCHOR2" x="3.5" y="2.5" drill="1.2" diameter="2.2" stop="no"/>
-<pad name="1" x="-2.5" y="0" drill="0.8" diameter="1.7" stop="no"/>
-<pad name="2" x="2.5" y="0" drill="0.8" diameter="1.7" stop="no"/>
-<circle x="2.5" y="0" radius="0.4445" width="0" layer="29"/>
-<circle x="-2.5" y="0" radius="0.4445" width="0" layer="29"/>
-<circle x="-3.5" y="2.5" radius="0.635" width="0" layer="29"/>
-<circle x="3.5" y="2.5" radius="0.635" width="0" layer="29"/>
-<circle x="-3.5" y="2.5" radius="1.143" width="0" layer="30"/>
-<circle x="2.5" y="0" radius="0.889" width="0" layer="30"/>
-<circle x="-2.5" y="0" radius="0.889" width="0" layer="30"/>
-<circle x="3.5" y="2.5" radius="1.143" width="0" layer="30"/>
-<text x="0" y="2.286" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-2.286" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_12MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 12mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cdn.sparkfun.com/datasheets/Components/Switches/N301102.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="5" y1="-1.3" x2="5" y2="-0.7" width="0.2032" layer="51"/>
-<wire x1="5" y1="-0.7" x2="4.5" y2="-0.2" width="0.2032" layer="51"/>
-<wire x1="5" y1="0.2" x2="5" y2="1" width="0.2032" layer="51"/>
-<wire x1="-6" y1="4" x2="-6" y2="5" width="0.2032" layer="21"/>
-<wire x1="-5" y1="6" x2="5" y2="6" width="0.2032" layer="21"/>
-<wire x1="6" y1="5" x2="6" y2="4" width="0.2032" layer="21"/>
-<wire x1="6" y1="1" x2="6" y2="-1" width="0.2032" layer="21"/>
-<wire x1="6" y1="-4" x2="6" y2="-5" width="0.2032" layer="21"/>
-<wire x1="5" y1="-6" x2="-5" y2="-6" width="0.2032" layer="21"/>
-<wire x1="-6" y1="-5" x2="-6" y2="-4" width="0.2032" layer="21"/>
-<wire x1="-6" y1="-1" x2="-6" y2="1" width="0.2032" layer="21"/>
-<circle x="0" y="0" radius="3.5" width="0.2032" layer="21"/>
-<circle x="-4.5" y="4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="4.5" y="4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="4.5" y="-4.5" radius="0.3" width="0.7" layer="21"/>
-<circle x="-4.5" y="-4.5" radius="0.3" width="0.7" layer="21"/>
-<smd name="4" x="-6.975" y="2.5" dx="1.6" dy="1.55" layer="1"/>
-<smd name="2" x="-6.975" y="-2.5" dx="1.6" dy="1.55" layer="1"/>
-<smd name="1" x="6.975" y="-2.5" dx="1.6" dy="1.55" layer="1"/>
-<smd name="3" x="6.975" y="2.5" dx="1.6" dy="1.55" layer="1"/>
-<wire x1="-6" y1="-5" x2="-5" y2="-6" width="0.2032" layer="21"/>
-<wire x1="6" y1="-5" x2="5" y2="-6" width="0.2032" layer="21"/>
-<wire x1="6" y1="5" x2="5" y2="6" width="0.2032" layer="21"/>
-<wire x1="-5" y1="6" x2="-6" y2="5" width="0.2032" layer="21"/>
-<text x="0" y="6.223" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-6.223" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_PTH_6.0MM_KIT">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - PTH, 6.0mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf"&gt;Datasheet&lt;/a&gt; (B3F-1000)&lt;/p&gt;</description>
-<wire x1="3.048" y1="1.016" x2="3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="2.54" x2="2.54" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="-2.54" x2="3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="2.54" x2="-3.048" y2="1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="-2.54" x2="-3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="3.048" x2="2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.159" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="21"/>
-<wire x1="-2.159" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="21"/>
-<wire x1="3.048" y1="0.998" x2="3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-3.048" y1="1.028" x2="-3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-2.54" y1="1.27" x2="-2.54" y2="0.508" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-0.508" x2="-2.54" y2="-1.27" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="0.508" x2="-2.159" y2="-0.381" width="0.2032" layer="51"/>
-<circle x="0" y="0" radius="1.778" width="0.2032" layer="21"/>
-<pad name="1" x="-3.2512" y="2.2606" drill="1.016" diameter="1.8796" stop="no"/>
-<pad name="2" x="3.2512" y="2.2606" drill="1.016" diameter="1.8796" stop="no"/>
-<pad name="3" x="-3.2512" y="-2.2606" drill="1.016" diameter="1.8796" stop="no"/>
-<pad name="4" x="3.2512" y="-2.2606" drill="1.016" diameter="1.8796" stop="no"/>
-<polygon width="0.127" layer="30">
-<vertex x="-3.2664" y="3.142"/>
-<vertex x="-3.2589" y="3.1445" curve="89.986886"/>
-<vertex x="-4.1326" y="2.286"/>
-<vertex x="-4.1351" y="2.2657" curve="90.00652"/>
-<vertex x="-3.2563" y="1.392"/>
-<vertex x="-3.2487" y="1.3869" curve="90.006616"/>
-<vertex x="-2.3826" y="2.2403"/>
-<vertex x="-2.3775" y="2.2683" curve="89.98711"/>
-</polygon>
-<polygon width="0.127" layer="29">
-<vertex x="-3.2462" y="2.7026"/>
-<vertex x="-3.2589" y="2.7051" curve="90.026544"/>
-<vertex x="-3.6881" y="2.2733"/>
-<vertex x="-3.6881" y="2.2632" curve="89.974074"/>
-<vertex x="-3.2562" y="1.8213"/>
-<vertex x="-3.2259" y="1.8186" curve="90.051271"/>
-<vertex x="-2.8093" y="2.2658"/>
-<vertex x="-2.8093" y="2.2606" curve="90.012964"/>
-</polygon>
-<polygon width="0.127" layer="30">
-<vertex x="3.2411" y="3.1395"/>
-<vertex x="3.2486" y="3.142" curve="89.986886"/>
-<vertex x="2.3749" y="2.2835"/>
-<vertex x="2.3724" y="2.2632" curve="90.00652"/>
-<vertex x="3.2512" y="1.3895"/>
-<vertex x="3.2588" y="1.3844" curve="90.006616"/>
-<vertex x="4.1249" y="2.2378"/>
-<vertex x="4.13" y="2.2658" curve="89.98711"/>
-</polygon>
-<polygon width="0.127" layer="29">
-<vertex x="3.2613" y="2.7001"/>
-<vertex x="3.2486" y="2.7026" curve="90.026544"/>
-<vertex x="2.8194" y="2.2708"/>
-<vertex x="2.8194" y="2.2607" curve="89.974074"/>
-<vertex x="3.2513" y="1.8188"/>
-<vertex x="3.2816" y="1.8161" curve="90.051271"/>
-<vertex x="3.6982" y="2.2633"/>
-<vertex x="3.6982" y="2.2581" curve="90.012964"/>
-</polygon>
-<polygon width="0.127" layer="30">
-<vertex x="-3.2613" y="-1.3868"/>
-<vertex x="-3.2538" y="-1.3843" curve="89.986886"/>
-<vertex x="-4.1275" y="-2.2428"/>
-<vertex x="-4.13" y="-2.2631" curve="90.00652"/>
-<vertex x="-3.2512" y="-3.1368"/>
-<vertex x="-3.2436" y="-3.1419" curve="90.006616"/>
-<vertex x="-2.3775" y="-2.2885"/>
-<vertex x="-2.3724" y="-2.2605" curve="89.98711"/>
-</polygon>
-<polygon width="0.127" layer="29">
-<vertex x="-3.2411" y="-1.8262"/>
-<vertex x="-3.2538" y="-1.8237" curve="90.026544"/>
-<vertex x="-3.683" y="-2.2555"/>
-<vertex x="-3.683" y="-2.2656" curve="89.974074"/>
-<vertex x="-3.2511" y="-2.7075"/>
-<vertex x="-3.2208" y="-2.7102" curve="90.051271"/>
-<vertex x="-2.8042" y="-2.263"/>
-<vertex x="-2.8042" y="-2.2682" curve="90.012964"/>
-</polygon>
-<polygon width="0.127" layer="30">
-<vertex x="3.2411" y="-1.3843"/>
-<vertex x="3.2486" y="-1.3818" curve="89.986886"/>
-<vertex x="2.3749" y="-2.2403"/>
-<vertex x="2.3724" y="-2.2606" curve="90.00652"/>
-<vertex x="3.2512" y="-3.1343"/>
-<vertex x="3.2588" y="-3.1394" curve="90.006616"/>
-<vertex x="4.1249" y="-2.286"/>
-<vertex x="4.13" y="-2.258" curve="89.98711"/>
-</polygon>
-<polygon width="0.127" layer="29">
-<vertex x="3.2613" y="-1.8237"/>
-<vertex x="3.2486" y="-1.8212" curve="90.026544"/>
-<vertex x="2.8194" y="-2.253"/>
-<vertex x="2.8194" y="-2.2631" curve="89.974074"/>
-<vertex x="3.2513" y="-2.705"/>
-<vertex x="3.2816" y="-2.7077" curve="90.051271"/>
-<vertex x="3.6982" y="-2.2605"/>
-<vertex x="3.6982" y="-2.2657" curve="90.012964"/>
-</polygon>
-<text x="0" y="3.175" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-3.175" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_5.2MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 5.2mm Square&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.sparkfun.com/datasheets/Components/Buttons/SMD-Button.pdf"&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="-1.54" y1="-2.54" x2="-2.54" y2="-1.54" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-1.24" x2="-2.54" y2="1.27" width="0.2032" layer="21"/>
-<wire x1="-2.54" y1="1.54" x2="-1.54" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-1.54" y1="2.54" x2="1.54" y2="2.54" width="0.2032" layer="21"/>
-<wire x1="1.54" y1="2.54" x2="2.54" y2="1.54" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="1.24" x2="2.54" y2="-1.24" width="0.2032" layer="21"/>
-<wire x1="2.54" y1="-1.54" x2="1.54" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="1.54" y1="-2.54" x2="-1.54" y2="-2.54" width="0.2032" layer="21"/>
-<wire x1="1.905" y1="1.27" x2="1.905" y2="0.445" width="0.127" layer="51"/>
-<wire x1="1.905" y1="0.445" x2="2.16" y2="-0.01" width="0.127" layer="51"/>
-<wire x1="1.905" y1="-0.23" x2="1.905" y2="-1.115" width="0.127" layer="51"/>
-<circle x="0" y="0" radius="1.27" width="0.2032" layer="21"/>
-<smd name="1" x="-2.794" y="1.905" dx="0.762" dy="1.524" layer="1" rot="R90"/>
-<smd name="2" x="2.794" y="1.905" dx="0.762" dy="1.524" layer="1" rot="R90"/>
-<smd name="3" x="-2.794" y="-1.905" dx="0.762" dy="1.524" layer="1" rot="R90"/>
-<smd name="4" x="2.794" y="-1.905" dx="0.762" dy="1.524" layer="1" rot="R90"/>
-<text x="0" y="2.667" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-2.667" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_RIGHT_ANGLE">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, Right-angle&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;</description>
-<hole x="0" y="0.9" drill="0.7"/>
-<hole x="0" y="-0.9" drill="0.7"/>
-<smd name="1" x="-1.95" y="0" dx="2" dy="1.1" layer="1" rot="R90"/>
-<smd name="2" x="1.95" y="0" dx="2" dy="1.1" layer="1" rot="R90"/>
-<wire x1="-2" y1="1.2" x2="-2" y2="1.5" width="0.2032" layer="21"/>
-<wire x1="-2" y1="1.5" x2="2" y2="1.5" width="0.2032" layer="21"/>
-<wire x1="2" y1="1.5" x2="2" y2="1.2" width="0.2032" layer="21"/>
-<wire x1="-2" y1="-1.2" x2="-2" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="-2" y1="-1.5" x2="-0.7" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="-0.7" y1="-1.5" x2="0.7" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="0.7" y1="-1.5" x2="2" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="2" y1="-1.5" x2="2" y2="-1.2" width="0.2032" layer="21"/>
-<wire x1="-0.7" y1="-2.1" x2="0.7" y2="-2.1" width="0.2032" layer="21"/>
-<wire x1="0.7" y1="-2.1" x2="0.7" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="-0.7" y1="-2.1" x2="-0.7" y2="-1.5" width="0.2032" layer="21"/>
-<text x="0" y="1.651" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-2.286" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_SMD_4.6X2.8MM">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 4.6 x 2.8mm&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.ck-components.com/media/1479/kmr2.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
-<smd name="3" x="2.05" y="0.8" dx="0.9" dy="1" layer="1"/>
-<smd name="2" x="2.05" y="-0.8" dx="0.9" dy="1" layer="1"/>
-<smd name="1" x="-2.05" y="-0.8" dx="0.9" dy="1" layer="1"/>
-<smd name="4" x="-2.05" y="0.8" dx="0.9" dy="1" layer="1"/>
-<wire x1="-2.1" y1="1.4" x2="-2.1" y2="-1.4" width="0.127" layer="51"/>
-<wire x1="2.1" y1="-1.4" x2="2.1" y2="1.4" width="0.127" layer="51"/>
-<wire x1="-2.1" y1="1.4" x2="2.1" y2="1.4" width="0.127" layer="51"/>
-<wire x1="-2.1" y1="-1.4" x2="2.1" y2="-1.4" width="0.127" layer="51"/>
-<circle x="0" y="0" radius="0.805" width="0.127" layer="21"/>
-<wire x1="1.338" y1="-1.4" x2="-1.338" y2="-1.4" width="0.2032" layer="21"/>
-<wire x1="-1.338" y1="1.4" x2="1.338" y2="1.4" width="0.2032" layer="21"/>
-<wire x1="-2.1" y1="0.13" x2="-2.1" y2="-0.13" width="0.2032" layer="21"/>
-<wire x1="2.1" y1="-0.13" x2="2.1" y2="0.13" width="0.2032" layer="21"/>
-<rectangle x1="-2.3" y1="0.5" x2="-2.1" y2="1.1" layer="51"/>
-<rectangle x1="-2.3" y1="-1.1" x2="-2.1" y2="-0.5" layer="51"/>
-<rectangle x1="2.1" y1="-1.1" x2="2.3" y2="-0.5" layer="51" rot="R180"/>
-<rectangle x1="2.1" y1="0.5" x2="2.3" y2="1.1" layer="51" rot="R180"/>
-<text x="0" y="1.524" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-1.524" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="TACTILE_SWITCH_PTH_RIGHT_ANGLE">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - PTH, Right-angle&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SW016.JPG"&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="1.5" y1="-3.8" x2="-1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="-2" x2="-3.65" y2="3.5" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="3.5" x2="-3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3" y1="3.5" x2="3.65" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3.65" y1="3.5" x2="3.65" y2="-2" width="0.127" layer="51"/>
-<wire x1="-3" y1="2" x2="3" y2="2" width="0.127" layer="51"/>
-<wire x1="-3" y1="2" x2="-3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="3" y1="2" x2="3" y2="3.5" width="0.127" layer="51"/>
-<wire x1="-3.65" y1="-2" x2="-1.5" y2="-2" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-2" x2="1.5" y2="-2" width="0.127" layer="51"/>
-<wire x1="1.5" y1="-2" x2="3.65" y2="-2" width="0.127" layer="51"/>
-<wire x1="1.5" y1="-2" x2="1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-2" x2="-1.5" y2="-3.8" width="0.127" layer="51"/>
-<wire x1="-3.777" y1="1" x2="-3.777" y2="-2.445003125" width="0.2032" layer="21"/>
-<wire x1="-3.777" y1="-2.445003125" x2="3.777" y2="-2.445003125" width="0.2032" layer="21"/>
-<wire x1="3.777" y1="-2.445003125" x2="3.777" y2="1" width="0.2032" layer="21"/>
-<wire x1="2" y1="2.127" x2="-2" y2="2.127" width="0.2032" layer="21"/>
-<pad name="ANCHOR1" x="-3.7032" y="2.5" drill="1.2" diameter="2.2"/>
-<pad name="ANCHOR2" x="3.7032" y="2.5" drill="1.2" diameter="2.2"/>
-<pad name="1" x="-2.5" y="0" drill="0.8" diameter="1.7" stop="no"/>
-<pad name="2" x="2.5" y="0" drill="0.8" diameter="1.7" stop="no"/>
-<circle x="2.5" y="0" radius="0.4445" width="0" layer="29"/>
-<circle x="-2.5" y="0" radius="0.4445" width="0" layer="29"/>
-<circle x="2.5" y="0" radius="0.889" width="0" layer="30"/>
-<circle x="-2.5" y="0" radius="0.889" width="0" layer="30"/>
-<text x="0" y="2.286" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-2.286" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-<wire x1="-0.635" y1="-2.445003125" x2="0.635" y2="-2.445003125" width="0.4064" layer="51"/>
-<wire x1="3.777" y1="1.905" x2="3.777" y2="3.683" width="0.4064" layer="51"/>
-<wire x1="-3.777" y1="1.905" x2="-3.777" y2="3.683" width="0.4064" layer="51"/>
-<text x="-1.27" y="-0.254" size="0.8128" layer="51" font="vector" ratio="15">Foot</text>
-<wire x1="0" y1="-0.635" x2="0" y2="-1.651" width="0.127" layer="51"/>
-<wire x1="0" y1="-1.651" x2="-0.127" y2="-1.27" width="0.127" layer="51"/>
-<wire x1="-0.127" y1="-1.27" x2="0.127" y2="-1.27" width="0.127" layer="51"/>
-<wire x1="0.127" y1="-1.27" x2="0" y2="-1.651" width="0.127" layer="51"/>
-<wire x1="1.905" y1="3.683" x2="2.921" y2="3.683" width="0.127" layer="51"/>
-<wire x1="2.921" y1="3.683" x2="2.54" y2="3.556" width="0.127" layer="51"/>
-<wire x1="2.54" y1="3.556" x2="2.54" y2="3.81" width="0.127" layer="51"/>
-<wire x1="2.54" y1="3.81" x2="2.921" y2="3.683" width="0.127" layer="51"/>
-<wire x1="-1.905" y1="3.683" x2="-2.921" y2="3.683" width="0.127" layer="51"/>
-<wire x1="-2.921" y1="3.683" x2="-2.54" y2="3.81" width="0.127" layer="51"/>
-<wire x1="-2.54" y1="3.81" x2="-2.54" y2="3.556" width="0.127" layer="51"/>
-<wire x1="-2.54" y1="3.556" x2="-2.921" y2="3.683" width="0.127" layer="51"/>
-<text x="-1.27" y="3.302" size="0.8128" layer="51" font="vector" ratio="15">Feet</text>
-</package>
 <package name="TACTILE_SWITCH_LED_PTH_12MM">
 <description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - w/ LED - PTH&lt;/h3&gt;
 &lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons), with a built-in LED.&lt;/p&gt;
@@ -868,18 +439,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-5.08" y1="-2.54" x2="-1.27" y2="-2.54" width="0.1524" layer="94"/>
 <wire x1="1.27" y1="-2.54" x2="5.08" y2="-2.54" width="0.1524" layer="94"/>
 </symbol>
-<symbol name="SWITCH-MOMENTARY-2">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;</description>
-<wire x1="1.905" y1="0" x2="2.54" y2="0" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="0" x2="1.905" y2="1.27" width="0.254" layer="94"/>
-<circle x="-2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
-<circle x="2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
-<text x="0" y="1.524" size="1.778" layer="95" font="vector" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.508" size="1.778" layer="96" font="vector" align="top-center">&gt;VALUE</text>
-<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="2"/>
-<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
-</symbol>
 </symbols>
 <devicesets>
 <deviceset name="MOMENTARY-SWITCH-SPST-LED" prefix="S">
@@ -949,362 +508,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </device>
 </devices>
 </deviceset>
-<deviceset name="MOMENTARY-SWITCH-SPST" prefix="S">
-<description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST&lt;/h3&gt;
-&lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
-&lt;h4&gt;Variants&lt;/h4&gt;
-&lt;h5&gt;PTH-12MM - 12mm square, through-hole&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/9190"&gt;Momentary Pushbutton Switch - 12mm Square&lt;/a&gt; (COM-09190)&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;PTH-6.0MM, PTH-6.0MM-KIT - 6.0mm square, through-hole&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/97"&gt;Mini Pushbutton Switch&lt;/a&gt; (COM-00097)&lt;/li&gt;
-&lt;li&gt;KIT package intended for soldering kit's - only one side of pads' copper is exposed.&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;PTH-RIGHT-ANGLE-KIT - Right-angle, through-hole&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10791"&gt;Right Angle Tactile Button&lt;/a&gt; - Used on &lt;a href="https://www.sparkfun.com/products/11734"&gt;
-SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-12MM - 12mm square, surface-mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/12993"&gt;Tactile Button - SMD (12mm)&lt;/a&gt; (COM-12993)&lt;/li&gt;
-&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/11888"&gt;SparkFun PicoBoard&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-4.5MM - 4.5mm Square Trackball Switch&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/13169"&gt;SparkFun Blackberry Trackballer Breakout&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-4.6MMX2.8MM -  4.60mm x 2.80mm, surface mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/13664"&gt;SparkFun SAMD21 Mini Breakout&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-5.2MM, SMD-5.2-REDUNDANT - 5.2mm square, surface-mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/8720"&gt;Mini Pushbutton Switch - SMD&lt;/a&gt; (COM-08720)&lt;/li&gt;
-&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/11114"&gt;Arduino Pro Mini&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;REDUNDANT package connects both switch circuits together&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-6.0X3.5MM - 6.0 x 3.5mm, surface mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/8229"&gt;Momentary Reset Switch SMD&lt;/a&gt; (COM-08229)&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-6.2MM-TALL - 6.2mm square, surface mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/12992"&gt;Tactile Button - SMD (6mm)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/12651"&gt;SparkFun Digital Sandbox&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h5&gt;SMD-RIGHT-ANGLE - Right-angle, surface mount&lt;/h5&gt;
-&lt;ul&gt;&lt;li&gt;Used on &lt;a href="https://www.sparkfun.com/products/13036"&gt;SparkFun Block for Intel® Edison - Arduino&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-<gates>
-<gate name="G$1" symbol="SWITCH-MOMENTARY-2" x="0" y="0"/>
-</gates>
-<devices>
-<device name="-PTH-6.0MM" package="TACTILE_SWITCH_PTH_6.0MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value=" SWCH-08441"/>
-<attribute name="SF_SKU" value="COM-00097"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-4.5MM" package="TACTILE_SWITCH_SMD_4.5MM">
-<connects>
-<connect gate="G$1" pin="1" pad="2 3"/>
-<connect gate="G$1" pin="2" pad="1 4"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-09213"/>
-</technology>
-</technologies>
-</device>
-<device name="-PTH-12MM" package="TACTILE_SWITCH_PTH_12MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-09185"/>
-<attribute name="SF_SKU" value="COM-09190"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-6.0X3.5MM" package="TACTILE_SWITCH_SMD_6.0X3.5MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-00815"/>
-<attribute name="SF_SKU" value="COM-08229"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-6.2MM-TALL" package="TACTILE_SWITCH_SMD_6.2MM_TALL">
-<connects>
-<connect gate="G$1" pin="1" pad="A2"/>
-<connect gate="G$1" pin="2" pad="B2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-11966"/>
-<attribute name="SF_SKU" value="COM-12992"/>
-</technology>
-</technologies>
-</device>
-<device name="-PTH-RIGHT-ANGLE-KIT" package="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CONN-10672"/>
-<attribute name="SF_SKU" value="COM-10791"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-12MM" package="TACTILE_SWITCH_SMD_12MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-11967"/>
-<attribute name="SF_SKU" value="COM-12993"/>
-</technology>
-</technologies>
-</device>
-<device name="-PTH-6.0MM-KIT" package="TACTILE_SWITCH_PTH_6.0MM_KIT">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-08441"/>
-<attribute name="SF_SKU" value="COM-00097 "/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-5.2MM" package="TACTILE_SWITCH_SMD_5.2MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-08247"/>
-<attribute name="SF_SKU" value="COM-08720"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-5.2-REDUNDANT" package="TACTILE_SWITCH_SMD_5.2MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1 2"/>
-<connect gate="G$1" pin="2" pad="3 4"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-08247"/>
-<attribute name="SF_SKU" value="COM-08720"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-RIGHT-ANGLE" package="TACTILE_SWITCH_SMD_RIGHT_ANGLE">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="COMP-12265" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-4.6X2.8MM" package="TACTILE_SWITCH_SMD_4.6X2.8MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1 2"/>
-<connect gate="G$1" pin="2" pad="3 4"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-13065"/>
-</technology>
-</technologies>
-</device>
-<device name="-PTH-RIGHT-ANGLE" package="TACTILE_SWITCH_PTH_RIGHT_ANGLE">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CONN-10672" constant="no"/>
-<attribute name="SF_SKU" value="COM-10791" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-5.2-TALL-REDUNDANT" package="TACTILE_SWITCH_SMD_5.2MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1 2"/>
-<connect gate="G$1" pin="2" pad="3 4"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-14139"/>
-</technology>
-</technologies>
-</device>
-<device name="-SMD-5.2MM-TALL" package="TACTILE_SWITCH_SMD_5.2MM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="3"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-14139"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="SparkFun-Boards">
-<description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
-This library contains footprints for SparkFun breakout boards, microcontrollers (Arduino, Particle, Teensy, etc.),  breadboards, non-RF modules, etc.
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="SPARKFUN_PRO_MICRO">
-<description>&lt;h3&gt;SparkFun Pro Mico Footprint (with USB connector)&lt;/h3&gt;
-&lt;p&gt;Specifications:
-&lt;ul&gt;&lt;li&gt;Pin count: 24&lt;/li&gt;
-&lt;li&gt;Pin pitch: 0.1"&lt;/li&gt;
-&lt;li&gt;Area:0.7x1.3"&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;p&gt;Example device(s):
-&lt;ul&gt;&lt;li&gt;SparkFun Pro Micro&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;</description>
-<wire x1="-8.89" y1="16.51" x2="-8.89" y2="-16.51" width="0.127" layer="51"/>
-<wire x1="-8.89" y1="-16.51" x2="8.89" y2="-16.51" width="0.127" layer="51"/>
-<wire x1="8.89" y1="-16.51" x2="8.89" y2="16.51" width="0.127" layer="51"/>
-<wire x1="8.89" y1="16.51" x2="-8.89" y2="16.51" width="0.127" layer="51"/>
-<pad name="1" x="-7.62" y="12.7" drill="1.016" diameter="1.8796"/>
-<pad name="2" x="-7.62" y="10.16" drill="1.016" diameter="1.8796"/>
-<pad name="3" x="-7.62" y="7.62" drill="1.016" diameter="1.8796"/>
-<pad name="4" x="-7.62" y="5.08" drill="1.016" diameter="1.8796"/>
-<pad name="5" x="-7.62" y="2.54" drill="1.016" diameter="1.8796"/>
-<pad name="6" x="-7.62" y="0" drill="1.016" diameter="1.8796"/>
-<pad name="7" x="-7.62" y="-2.54" drill="1.016" diameter="1.8796"/>
-<pad name="8" x="-7.62" y="-5.08" drill="1.016" diameter="1.8796"/>
-<pad name="9" x="-7.62" y="-7.62" drill="1.016" diameter="1.8796"/>
-<pad name="10" x="-7.62" y="-10.16" drill="1.016" diameter="1.8796"/>
-<pad name="11" x="-7.62" y="-12.7" drill="1.016" diameter="1.8796"/>
-<pad name="12" x="-7.62" y="-15.24" drill="1.016" diameter="1.8796"/>
-<pad name="13" x="7.62" y="-15.24" drill="1.016" diameter="1.8796"/>
-<pad name="14" x="7.62" y="-12.7" drill="1.016" diameter="1.8796"/>
-<pad name="15" x="7.62" y="-10.16" drill="1.016" diameter="1.8796"/>
-<pad name="16" x="7.62" y="-7.62" drill="1.016" diameter="1.8796"/>
-<pad name="17" x="7.62" y="-5.08" drill="1.016" diameter="1.8796"/>
-<pad name="18" x="7.62" y="-2.54" drill="1.016" diameter="1.8796"/>
-<pad name="19" x="7.62" y="0" drill="1.016" diameter="1.8796"/>
-<pad name="20" x="7.62" y="2.54" drill="1.016" diameter="1.8796"/>
-<pad name="21" x="7.62" y="5.08" drill="1.016" diameter="1.8796"/>
-<pad name="22" x="7.62" y="7.62" drill="1.016" diameter="1.8796"/>
-<pad name="23" x="7.62" y="10.16" drill="1.016" diameter="1.8796"/>
-<pad name="24" x="7.62" y="12.7" drill="1.016" diameter="1.8796"/>
-<text x="0" y="18.034" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-16.764" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<wire x1="-3.81" y1="16.51" x2="-3.81" y2="17.78" width="0.127" layer="51"/>
-<wire x1="-3.81" y1="17.78" x2="3.81" y2="17.78" width="0.127" layer="51"/>
-<wire x1="3.81" y1="17.78" x2="3.81" y2="16.51" width="0.127" layer="51"/>
-<text x="-1.27" y="16.51" size="0.8128" layer="51" font="vector" ratio="20">USB</text>
-</package>
-</packages>
-<symbols>
-<symbol name="SPARKFUN_PRO_MICRO">
-<description>&lt;h3&gt;SparkFun Pro Micro&lt;/h3&gt;
-&lt;p&gt;3.3V/5V at 8MHz/16MHz. Does not require a USB to serial converter board for programming.  &lt;/p&gt;</description>
-<wire x1="-7.62" y1="17.78" x2="-7.62" y2="-15.24" width="0.254" layer="94"/>
-<wire x1="10.16" y1="-15.24" x2="10.16" y2="17.78" width="0.254" layer="94"/>
-<wire x1="10.16" y1="17.78" x2="-7.62" y2="17.78" width="0.254" layer="94"/>
-<text x="-7.62" y="18.542" size="1.778" layer="95">&gt;NAME</text>
-<text x="-7.62" y="-17.78" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="2" x="-10.16" y="5.08" length="short"/>
-<pin name="*3" x="-10.16" y="2.54" length="short"/>
-<pin name="4" x="-10.16" y="0" length="short"/>
-<pin name="*5" x="-10.16" y="-2.54" length="short"/>
-<pin name="*6" x="-10.16" y="-5.08" length="short"/>
-<pin name="7" x="-10.16" y="-7.62" length="short"/>
-<pin name="8" x="-10.16" y="-10.16" length="short"/>
-<pin name="*9" x="-10.16" y="-12.7" length="short"/>
-<pin name="*10" x="12.7" y="-12.7" length="short" rot="R180"/>
-<pin name="11(MOSI)" x="12.7" y="-10.16" length="short" rot="R180"/>
-<pin name="12(MISO)" x="12.7" y="-7.62" length="short" rot="R180"/>
-<pin name="13(SCK)" x="12.7" y="-5.08" length="short" rot="R180"/>
-<pin name="A0" x="12.7" y="-2.54" length="short" rot="R180"/>
-<pin name="A1" x="12.7" y="0" length="short" rot="R180"/>
-<pin name="A2" x="12.7" y="2.54" length="short" rot="R180"/>
-<pin name="A3" x="12.7" y="5.08" length="short" rot="R180"/>
-<pin name="GND" x="-10.16" y="7.62" length="short" direction="pwr"/>
-<pin name="GND@2" x="12.7" y="12.7" length="short" direction="pwr" rot="R180"/>
-<pin name="RAW" x="12.7" y="15.24" length="short" direction="pwr" rot="R180"/>
-<pin name="GND@1" x="-10.16" y="10.16" length="short" direction="pwr"/>
-<pin name="RESET" x="12.7" y="10.16" length="short" rot="R180"/>
-<pin name="RXI" x="-10.16" y="12.7" length="short"/>
-<pin name="TXO" x="-10.16" y="15.24" length="short"/>
-<pin name="VCC" x="12.7" y="7.62" length="short" direction="pwr" rot="R180"/>
-<wire x1="-7.62" y1="-15.24" x2="10.16" y2="-15.24" width="0.254" layer="94"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="SPARKFUN_PRO_MICRO" prefix="B">
-<description>&lt;h3&gt;SparkFun Pro Micro &lt;/h3&gt;
-&lt;p&gt;Atmega32U4 compatible footprint.&lt;/p&gt;
-
-&lt;b&gt;&lt;p&gt;SparkFun Products:&lt;/b&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/12587”&gt;3.3V/8MHz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/12640”&gt;5V/16MHz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="SPARKFUN_PRO_MICRO" x="0" y="2.54"/>
-</gates>
-<devices>
-<device name="" package="SPARKFUN_PRO_MICRO">
-<connects>
-<connect gate="G$1" pin="*10" pad="13"/>
-<connect gate="G$1" pin="*3" pad="6"/>
-<connect gate="G$1" pin="*5" pad="8"/>
-<connect gate="G$1" pin="*6" pad="9"/>
-<connect gate="G$1" pin="*9" pad="12"/>
-<connect gate="G$1" pin="11(MOSI)" pad="14"/>
-<connect gate="G$1" pin="12(MISO)" pad="15"/>
-<connect gate="G$1" pin="13(SCK)" pad="16"/>
-<connect gate="G$1" pin="2" pad="5"/>
-<connect gate="G$1" pin="4" pad="7"/>
-<connect gate="G$1" pin="7" pad="10"/>
-<connect gate="G$1" pin="8" pad="11"/>
-<connect gate="G$1" pin="A0" pad="17"/>
-<connect gate="G$1" pin="A1" pad="18"/>
-<connect gate="G$1" pin="A2" pad="19"/>
-<connect gate="G$1" pin="A3" pad="20"/>
-<connect gate="G$1" pin="GND" pad="4"/>
-<connect gate="G$1" pin="GND@1" pad="3"/>
-<connect gate="G$1" pin="GND@2" pad="23"/>
-<connect gate="G$1" pin="RAW" pad="24"/>
-<connect gate="G$1" pin="RESET" pad="22"/>
-<connect gate="G$1" pin="RXI" pad="2"/>
-<connect gate="G$1" pin="TXO" pad="1"/>
-<connect gate="G$1" pin="VCC" pad="21"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 </devicesets>
 </library>
 <library name="supply1" urn="urn:adsk.eagle:library:371">
@@ -1329,48 +532,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="GND" x="0" y="0"/>
-</gates>
-<devices>
-<device name="">
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="SparkFun-PowerSymbols">
-<description>&lt;h3&gt;SparkFun Power Symbols&lt;/h3&gt;
-This library contains power, ground, and voltage-supply symbols.
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-</packages>
-<symbols>
-<symbol name="VCC">
-<description>&lt;h3&gt;VCC Voltage Supply&lt;/h3&gt;</description>
-<wire x1="0.762" y1="1.27" x2="0" y2="2.54" width="0.254" layer="94"/>
-<wire x1="0" y1="2.54" x2="-0.762" y2="1.27" width="0.254" layer="94"/>
-<pin name="VCC" x="0" y="0" visible="off" length="short" direction="sup" rot="R90"/>
-<text x="0" y="2.794" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="VCC" prefix="SUPPLY">
-<description>&lt;h3&gt;VCC Voltage Supply&lt;/h3&gt;
-&lt;p&gt;Positive voltage supply (traditionally for a BJT device, C=collector).&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="VCC" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -2304,6 +1465,51 @@ This is a simple library of custom parts I use in my devices.</description>
 <wire x1="-1.27" y1="-6.6" x2="1.27" y2="-6.6" width="0.2032" layer="21"/>
 <wire x1="3.81" y1="-6.6" x2="6.2" y2="-6.6" width="0.2032" layer="21"/>
 </package>
+<package name="TEENSY">
+<wire x1="15.24" y1="8.89" x2="-15.24" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-8.89" x2="15.24" y2="-8.89" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="8.89" x2="15.24" y2="6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="8.89" x2="-15.24" y2="6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-8.89" x2="-15.24" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="1.016" x2="-15.24" y2="-1.016" width="0.1524" layer="21" curve="-180"/>
+<wire x1="-15.24" y1="6.35" x2="-15.24" y2="1.016" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="6.35" x2="15.24" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-6.35" x2="15.24" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-6.35" x2="-15.24" y2="-1.016" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="-6.35" x2="15.24" y2="-8.89" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="6.35" x2="15.24" y2="6.35" width="0.1524" layer="21"/>
+<pad name="GND" x="-13.97" y="-7.62" drill="1.016" diameter="1.8796" shape="square" rot="R90"/>
+<pad name="B7" x="-1.27" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D2" x="6.35" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D3" x="8.89" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D0" x="1.27" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D1" x="3.81" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D4" x="13.97" y="5.08" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="D5" x="13.97" y="-5.08" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="D6" x="13.97" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="D7" x="11.43" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="C6" x="11.43" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="C7" x="13.97" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F7" x="1.27" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F6" x="-1.27" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F5" x="-3.81" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F4" x="-6.35" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F1" x="-8.89" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="F0" x="-11.43" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="GRND1" x="13.97" y="0" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="B0" x="-11.43" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B1" x="-8.89" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B2" x="-6.35" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B3" x="-3.81" y="-7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B4" x="8.89" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B5" x="6.35" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="B6" x="3.81" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="+5V" x="-13.97" y="7.62" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="5V2" x="13.97" y="-2.54" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="RST" x="13.97" y="2.54" drill="1.016" diameter="1.8796" rot="R180"/>
+<text x="3.175" y="1.905" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-15.748" y="-8.255" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+</package>
 </packages>
 <symbols>
 <symbol name="SWITCH-MOMENTARY-2">
@@ -2333,6 +1539,43 @@ This is a simple library of custom parts I use in my devices.</description>
 <pin name="A" x="-2.54" y="7.62" visible="off" length="short" direction="pas" rot="R270"/>
 <pin name="B" x="2.54" y="7.62" visible="off" length="short" direction="pas" rot="R270"/>
 </symbol>
+<symbol name="TEENSY">
+<wire x1="-7.62" y1="35.56" x2="7.62" y2="35.56" width="0.254" layer="94"/>
+<wire x1="7.62" y1="35.56" x2="7.62" y2="-33.02" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-33.02" x2="-7.62" y2="-33.02" width="0.254" layer="94"/>
+<wire x1="-7.62" y1="-33.02" x2="-7.62" y2="35.56" width="0.254" layer="94"/>
+<text x="-5.08" y="38.1" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="2.54" size="1.778" layer="96" rot="R270">&gt;VALUE</text>
+<pin name="_GND" x="-12.7" y="33.02" length="middle"/>
+<pin name="_B7" x="-12.7" y="30.48" length="middle"/>
+<pin name="_D0" x="-12.7" y="27.94" length="middle"/>
+<pin name="_D1" x="-12.7" y="25.4" length="middle"/>
+<pin name="_D2" x="-12.7" y="22.86" length="middle"/>
+<pin name="_D3" x="-12.7" y="20.32" length="middle"/>
+<pin name="_D4" x="-12.7" y="17.78" length="middle"/>
+<pin name="_D5" x="-12.7" y="15.24" length="middle"/>
+<pin name="_D6" x="-12.7" y="12.7" length="middle"/>
+<pin name="_D7" x="-12.7" y="10.16" length="middle"/>
+<pin name="_C6" x="-12.7" y="-12.7" length="middle"/>
+<pin name="_C7" x="-12.7" y="-15.24" length="middle"/>
+<pin name="5V" x="12.7" y="33.02" length="middle" rot="R180"/>
+<pin name="_B6" x="12.7" y="30.48" length="middle" rot="R180"/>
+<pin name="_B5" x="12.7" y="27.94" length="middle" rot="R180"/>
+<pin name="_B4" x="12.7" y="25.4" length="middle" rot="R180"/>
+<pin name="_B3" x="12.7" y="22.86" length="middle" rot="R180"/>
+<pin name="_B2" x="12.7" y="20.32" length="middle" rot="R180"/>
+<pin name="_B1" x="12.7" y="17.78" length="middle" rot="R180"/>
+<pin name="_B0" x="12.7" y="15.24" length="middle" rot="R180"/>
+<pin name="_GND1" x="12.7" y="5.08" length="middle" rot="R180"/>
+<pin name="_F0" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="_F1" x="12.7" y="-5.08" length="middle" rot="R180"/>
+<pin name="_F4" x="12.7" y="-10.16" length="middle" rot="R180"/>
+<pin name="_F5" x="12.7" y="-12.7" length="middle" rot="R180"/>
+<pin name="_F6" x="12.7" y="-15.24" length="middle" rot="R180"/>
+<pin name="_F7" x="12.7" y="-17.78" length="middle" rot="R180"/>
+<pin name="_5V2" x="12.7" y="-22.86" length="middle" rot="R180"/>
+<pin name="_RST" x="12.7" y="-25.4" length="middle" rot="R180"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="CHERRY-MX-ENCODER">
@@ -2355,6 +1598,50 @@ This is a simple library of custom parts I use in my devices.</description>
 </device>
 </devices>
 </deviceset>
+<deviceset name="TEENSY" prefix="_">
+<description>Teensy 2.0</description>
+<gates>
+<gate name="G$1" symbol="TEENSY" x="0" y="-2.54"/>
+</gates>
+<devices>
+<device name="" package="TEENSY">
+<connects>
+<connect gate="G$1" pin="5V" pad="+5V"/>
+<connect gate="G$1" pin="_5V2" pad="5V2"/>
+<connect gate="G$1" pin="_B0" pad="B0"/>
+<connect gate="G$1" pin="_B1" pad="B1"/>
+<connect gate="G$1" pin="_B2" pad="B2"/>
+<connect gate="G$1" pin="_B3" pad="B3"/>
+<connect gate="G$1" pin="_B4" pad="B4"/>
+<connect gate="G$1" pin="_B5" pad="B5"/>
+<connect gate="G$1" pin="_B6" pad="B6"/>
+<connect gate="G$1" pin="_B7" pad="B7"/>
+<connect gate="G$1" pin="_C6" pad="C6"/>
+<connect gate="G$1" pin="_C7" pad="C7"/>
+<connect gate="G$1" pin="_D0" pad="D0"/>
+<connect gate="G$1" pin="_D1" pad="D1"/>
+<connect gate="G$1" pin="_D2" pad="D2"/>
+<connect gate="G$1" pin="_D3" pad="D3"/>
+<connect gate="G$1" pin="_D4" pad="D4"/>
+<connect gate="G$1" pin="_D5" pad="D5"/>
+<connect gate="G$1" pin="_D6" pad="D6"/>
+<connect gate="G$1" pin="_D7" pad="D7"/>
+<connect gate="G$1" pin="_F0" pad="F0"/>
+<connect gate="G$1" pin="_F1" pad="F1"/>
+<connect gate="G$1" pin="_F4" pad="F4"/>
+<connect gate="G$1" pin="_F5" pad="F5"/>
+<connect gate="G$1" pin="_F6" pad="F6"/>
+<connect gate="G$1" pin="_F7" pad="F7"/>
+<connect gate="G$1" pin="_GND" pad="GND"/>
+<connect gate="G$1" pin="_GND1" pad="GRND1"/>
+<connect gate="G$1" pin="_RST" pad="RST"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -2368,28 +1655,23 @@ This is a simple library of custom parts I use in my devices.</description>
 </classes>
 <groups>
 <schematic_group name="LEDS_RESISTORS"/>
-<schematic_group name="RESET_BUTTON"/>
-<schematic_group name="PRO_MICRO"/>
 <schematic_group name="ENCODER_PINS"/>
 <schematic_group name="SWITCHES"/>
+<schematic_group name="TEENSY"/>
 </groups>
 <parts>
-<part name="B1" library="SparkFun-Boards" deviceset="SPARKFUN_PRO_MICRO" device=""/>
 <part name="S2" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S3" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S5" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S6" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S7" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S8" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
-<part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="S9" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S10" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S11" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S12" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S14" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
 <part name="S15" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST-LED" device="-PTH-CHERRY"/>
-<part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
 <part name="D1" library="adafruit" deviceset="DIODE" device="DO-1N4148"/>
 <part name="D2" library="adafruit" deviceset="DIODE" device="DO-1N4148"/>
 <part name="D3" library="adafruit" deviceset="DIODE" device="DO-1N4148"/>
@@ -2411,8 +1693,6 @@ This is a simple library of custom parts I use in my devices.</description>
 <part name="R1" library="SparkFun-Resistors" deviceset="330OHM" device="-HORIZ-1/10W-5%" value="330"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="330OHM" device="-HORIZ-1/10W-5%" value="330"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="S17" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM"/>
-<part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="D18" library="SparkFun-LED" deviceset="LED" device="3MM"/>
 <part name="R2" library="SparkFun-Resistors" deviceset="330OHM" device="-HORIZ-1/10W-5%" value="330"/>
 <part name="RE_3_1" library="cpwood" deviceset="CHERRY-MX-ENCODER" device=""/>
@@ -2422,6 +1702,8 @@ This is a simple library of custom parts I use in my devices.</description>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="RE_3_0" library="cpwood" deviceset="CHERRY-MX-ENCODER" device=""/>
 <part name="D20" library="adafruit" deviceset="DIODE" device="DO-1N4148"/>
+<part name="_1" library="cpwood" deviceset="TEENSY" device=""/>
+<part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2441,7 +1723,7 @@ May 21, 2020</text>
 <text x="312.42" y="10.16" size="1.778" layer="97">Design By:
 github.com/imchipwood</text>
 <text x="312.42" y="17.78" size="1.778" layer="97">Title:
-dumbpad</text>
+dumbpad teensy</text>
 <wire x1="347.98" y1="7.62" x2="337.82" y2="7.62" width="0.1524" layer="97"/>
 <wire x1="337.82" y1="7.62" x2="309.88" y2="7.62" width="0.1524" layer="97"/>
 <wire x1="309.88" y1="7.62" x2="309.88" y2="0" width="0.1524" layer="97"/>
@@ -2453,10 +1735,6 @@ dumbpad</text>
 <wire x1="337.82" y1="7.62" x2="337.82" y2="0" width="0.1524" layer="97"/>
 </plain>
 <instances>
-<instance part="B1" gate="G$1" x="294.64" y="154.94" smashed="yes" grouprefs="PRO_MICRO">
-<attribute name="NAME" x="287.02" y="173.482" size="1.778" layer="95"/>
-<attribute name="VALUE" x="287.02" y="137.16" size="1.778" layer="96"/>
-</instance>
 <instance part="S2" gate="G$1" x="38.1" y="68.58" smashed="yes" grouprefs="SWITCHES">
 <attribute name="NAME" x="38.1" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="38.1" y="63.246" size="1.778" layer="96" font="vector" align="top-center"/>
@@ -2481,9 +1759,6 @@ dumbpad</text>
 <attribute name="NAME" x="99.06" y="18.034" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="99.06" y="7.366" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND7" gate="1" x="309.88" y="127" smashed="yes" grouprefs="PRO_MICRO">
-<attribute name="VALUE" x="307.34" y="124.46" size="1.778" layer="96"/>
-</instance>
 <instance part="S9" gate="G$1" x="160.02" y="96.52" smashed="yes" grouprefs="SWITCHES">
 <attribute name="NAME" x="160.02" y="101.854" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="160.02" y="91.186" size="1.778" layer="96" font="vector" align="top-center"/>
@@ -2507,12 +1782,6 @@ dumbpad</text>
 <instance part="S15" gate="G$1" x="220.98" y="40.64" smashed="yes" grouprefs="SWITCHES">
 <attribute name="NAME" x="220.98" y="45.974" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="220.98" y="35.306" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="GND3" gate="1" x="276.86" y="127" smashed="yes" grouprefs="PRO_MICRO">
-<attribute name="VALUE" x="274.32" y="124.46" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY2" gate="G$1" x="312.42" y="177.8" smashed="yes" grouprefs="PRO_MICRO">
-<attribute name="VALUE" x="312.42" y="180.594" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="D1" gate="G$1" x="20.32" y="99.06" smashed="yes" rot="R180" grouprefs="SWITCHES">
 <attribute name="NAME" x="22.86" y="96.52" size="1.27" layer="95" rot="R180"/>
@@ -2597,13 +1866,6 @@ dumbpad</text>
 <instance part="GND2" gate="1" x="127" y="160.02" smashed="yes" grouprefs="LEDS_RESISTORS">
 <attribute name="VALUE" x="124.46" y="157.48" size="1.778" layer="96"/>
 </instance>
-<instance part="S17" gate="G$1" x="200.66" y="180.34" smashed="yes" rot="R180" grouprefs="RESET_BUTTON">
-<attribute name="NAME" x="203.2" y="183.896" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="200.66" y="175.768" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
-</instance>
-<instance part="GND4" gate="1" x="213.36" y="180.34" smashed="yes" rot="R90" grouprefs="RESET_BUTTON">
-<attribute name="VALUE" x="205.74" y="180.34" size="1.778" layer="96"/>
-</instance>
 <instance part="D18" gate="D1" x="142.24" y="167.64" smashed="yes" rot="R270" grouprefs="LEDS_RESISTORS">
 <attribute name="NAME" x="137.668" y="171.069" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="137.668" y="165.735" size="1.778" layer="96" font="vector" align="top-left"/>
@@ -2659,32 +1921,18 @@ dumbpad</text>
 <attribute name="NAME" x="205.74" y="116.84" size="1.27" layer="95" rot="R180"/>
 <attribute name="VALUE" x="205.74" y="123.19" size="1.27" layer="96" rot="R180"/>
 </instance>
+<instance part="_1" gate="G$1" x="299.72" y="142.24" smashed="yes" grouprefs="TEENSY">
+<attribute name="NAME" x="294.64" y="180.34" size="1.778" layer="95"/>
+<attribute name="VALUE" x="294.64" y="144.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND1" gate="1" x="299.72" y="101.6" smashed="yes" grouprefs="TEENSY">
+<attribute name="VALUE" x="297.18" y="99.06" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="GND" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="GND@2"/>
-<wire x1="307.34" y1="167.64" x2="309.88" y2="167.64" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<wire x1="309.88" y1="167.64" x2="309.88" y2="129.54" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<pinref part="GND7" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="B1" gate="G$1" pin="GND"/>
-<wire x1="284.48" y1="162.56" x2="276.86" y2="162.56" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<wire x1="276.86" y1="162.56" x2="276.86" y2="129.54" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<pinref part="B1" gate="G$1" pin="GND@1"/>
-<wire x1="284.48" y1="165.1" x2="276.86" y2="165.1" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<wire x1="276.86" y1="165.1" x2="276.86" y2="162.56" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<junction x="276.86" y="162.56" grouprefs="PRO_MICRO"/>
-<pinref part="GND3" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="S17" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="180.34" x2="210.82" y2="180.34" width="0.1524" layer="91" grouprefs="RESET_BUTTON"/>
-<pinref part="GND4" gate="1" pin="GND"/>
-</segment>
 <segment>
 <wire x1="5.08" y1="154.94" x2="7.62" y2="154.94" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <pinref part="RE_3_4" gate="G$2" pin="C"/>
@@ -2723,6 +1971,19 @@ dumbpad</text>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="127" y1="167.64" x2="127" y2="162.56" width="0.1524" layer="91" grouprefs="LEDS_RESISTORS"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_GND"/>
+<wire x1="287.02" y1="175.26" x2="281.94" y2="175.26" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<wire x1="281.94" y1="175.26" x2="281.94" y2="106.68" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<wire x1="281.94" y1="106.68" x2="299.72" y2="106.68" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<wire x1="299.72" y1="106.68" x2="317.5" y2="106.68" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<wire x1="317.5" y1="106.68" x2="317.5" y2="147.32" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<pinref part="_1" gate="G$1" pin="_GND1"/>
+<wire x1="317.5" y1="147.32" x2="312.42" y2="147.32" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<wire x1="299.72" y1="106.68" x2="299.72" y2="104.14" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<junction x="299.72" y="106.68" grouprefs="TEENSY"/>
+<pinref part="GND1" gate="1" pin="GND"/>
+</segment>
 </net>
 <net name="ROW0" class="0">
 <segment>
@@ -2744,9 +2005,9 @@ dumbpad</text>
 <label x="15.24" y="104.14" size="1.778" layer="95" grouprefs="SWITCHES"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="A3"/>
-<wire x1="307.34" y1="160.02" x2="314.96" y2="160.02" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="160.02" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
+<pinref part="_1" gate="G$1" pin="_F5"/>
+<wire x1="312.42" y1="129.54" x2="332.74" y2="129.54" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="325.12" y="129.54" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ROW1" class="0">
@@ -2769,9 +2030,9 @@ dumbpad</text>
 <label x="76.2" y="104.14" size="1.778" layer="95" grouprefs="SWITCHES"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="A2"/>
-<wire x1="307.34" y1="157.48" x2="314.96" y2="157.48" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="157.48" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
+<pinref part="_1" gate="G$1" pin="_F6"/>
+<wire x1="312.42" y1="127" x2="332.74" y2="127" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="325.12" y="127" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ROW2" class="0">
@@ -2794,9 +2055,9 @@ dumbpad</text>
 <label x="137.16" y="104.14" size="1.778" layer="95" grouprefs="SWITCHES"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="A1"/>
-<wire x1="307.34" y1="154.94" x2="314.96" y2="154.94" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="154.94" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
+<pinref part="_1" gate="G$1" pin="_F7"/>
+<wire x1="312.42" y1="124.46" x2="332.74" y2="124.46" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="325.12" y="124.46" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ROW3" class="0">
@@ -2823,17 +2084,9 @@ dumbpad</text>
 <junction x="198.12" y="119.38" grouprefs="SWITCHES"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="A0"/>
-<wire x1="307.34" y1="152.4" x2="314.96" y2="152.4" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="152.4" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-</net>
-<net name="VCC" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="VCC"/>
-<wire x1="307.34" y1="162.56" x2="312.42" y2="162.56" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<wire x1="312.42" y1="162.56" x2="312.42" y2="177.8" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<pinref part="SUPPLY2" gate="G$1" pin="VCC"/>
+<pinref part="_1" gate="G$1" pin="_B6"/>
+<wire x1="312.42" y1="172.72" x2="330.2" y2="172.72" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="322.58" y="172.72" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -2950,11 +2203,6 @@ dumbpad</text>
 </net>
 <net name="COL1" class="0">
 <segment>
-<pinref part="B1" gate="G$1" pin="*6"/>
-<wire x1="284.48" y1="149.86" x2="266.7" y2="149.86" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="266.7" y="149.86" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
 <wire x1="5.08" y1="111.76" x2="48.26" y2="111.76" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <wire x1="48.26" y1="111.76" x2="109.22" y2="111.76" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <wire x1="109.22" y1="111.76" x2="170.18" y2="111.76" width="0.1524" layer="91" grouprefs="SWITCHES"/>
@@ -2976,13 +2224,13 @@ dumbpad</text>
 <pinref part="RE_0_1" gate="G$1" pin="2"/>
 <wire x1="43.18" y1="99.06" x2="48.26" y2="99.06" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D2"/>
+<wire x1="287.02" y1="165.1" x2="264.16" y2="165.1" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="165.1" size="1.778" layer="95" grouprefs="TEENSY"/>
+</segment>
 </net>
 <net name="COL2" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="7"/>
-<wire x1="284.48" y1="147.32" x2="266.7" y2="147.32" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="266.7" y="147.32" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
 <segment>
 <wire x1="5.08" y1="81.28" x2="48.26" y2="81.28" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <pinref part="S14" gate="G$1" pin="2"/>
@@ -3005,13 +2253,13 @@ dumbpad</text>
 <junction x="48.26" y="81.28" grouprefs="SWITCHES"/>
 <label x="5.08" y="81.28" size="1.778" layer="95" grouprefs="SWITCHES"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D3"/>
+<wire x1="287.02" y1="162.56" x2="264.16" y2="162.56" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="162.56" size="1.778" layer="95" grouprefs="TEENSY"/>
+</segment>
 </net>
 <net name="COL3" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="8"/>
-<wire x1="284.48" y1="144.78" x2="266.7" y2="144.78" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="266.7" y="144.78" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
 <segment>
 <pinref part="S15" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="43.18" x2="231.14" y2="43.18" width="0.1524" layer="91" grouprefs="SWITCHES"/>
@@ -3034,13 +2282,13 @@ dumbpad</text>
 <junction x="48.26" y="53.34" grouprefs="SWITCHES"/>
 <label x="5.08" y="53.34" size="1.778" layer="95" grouprefs="SWITCHES"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_C6"/>
+<wire x1="287.02" y1="129.54" x2="264.16" y2="129.54" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="129.54" size="1.778" layer="95" grouprefs="TEENSY"/>
+</segment>
 </net>
 <net name="COL4" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="*9"/>
-<wire x1="284.48" y1="142.24" x2="266.7" y2="142.24" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="266.7" y="142.24" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
 <segment>
 <wire x1="5.08" y1="25.4" x2="48.26" y2="25.4" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <wire x1="48.26" y1="25.4" x2="109.22" y2="25.4" width="0.1524" layer="91" grouprefs="SWITCHES"/>
@@ -3063,17 +2311,10 @@ dumbpad</text>
 <pinref part="RE_0_4" gate="G$1" pin="2"/>
 <wire x1="43.18" y1="15.24" x2="48.26" y2="15.24" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 </segment>
-</net>
-<net name="RESET" class="0">
 <segment>
-<pinref part="B1" gate="G$1" pin="RESET"/>
-<wire x1="307.34" y1="165.1" x2="314.96" y2="165.1" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="165.1" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
-<pinref part="S17" gate="G$1" pin="2"/>
-<wire x1="195.58" y1="180.34" x2="190.5" y2="180.34" width="0.1524" layer="91" grouprefs="RESET_BUTTON"/>
-<label x="190.5" y="180.34" size="1.778" layer="95" grouprefs="RESET_BUTTON"/>
+<pinref part="_1" gate="G$1" pin="_C7"/>
+<wire x1="287.02" y1="127" x2="264.16" y2="127" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="127" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -3097,21 +2338,21 @@ dumbpad</text>
 <label x="162.56" y="177.8" size="1.778" layer="95" grouprefs="LEDS_RESISTORS"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="12(MISO)"/>
-<wire x1="307.34" y1="147.32" x2="314.96" y2="147.32" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="147.32" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
+<pinref part="_1" gate="G$1" pin="_B4"/>
+<wire x1="312.42" y1="167.64" x2="330.2" y2="167.64" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="322.58" y="167.64" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="LED1" class="0">
 <segment>
-<pinref part="B1" gate="G$1" pin="13(SCK)"/>
-<wire x1="307.34" y1="149.86" x2="314.96" y2="149.86" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="149.86" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
 <pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="160.02" y1="167.64" x2="162.56" y2="167.64" width="0.1524" layer="91" grouprefs="LEDS_RESISTORS"/>
 <label x="162.56" y="167.64" size="1.778" layer="95" grouprefs="LEDS_RESISTORS"/>
+</segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_B5"/>
+<wire x1="312.42" y1="170.18" x2="330.2" y2="170.18" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="322.58" y="170.18" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ENCODER1_L0" class="0">
@@ -3121,14 +2362,14 @@ dumbpad</text>
 <pinref part="RE_3_4" gate="G$2" pin="A"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="2"/>
-<wire x1="284.48" y1="160.02" x2="266.7" y2="160.02" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="259.08" y="160.02" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
 <pinref part="RE_0_4" gate="G$2" pin="A"/>
 <wire x1="53.34" y1="157.48" x2="55.88" y2="157.48" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <label x="55.88" y="157.48" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
+</segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_B3"/>
+<wire x1="312.42" y1="165.1" x2="330.2" y2="165.1" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="322.58" y="165.1" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ENCODER1_L1" class="0">
@@ -3138,14 +2379,14 @@ dumbpad</text>
 <pinref part="RE_3_4" gate="G$2" pin="B"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="*3"/>
-<wire x1="284.48" y1="157.48" x2="266.7" y2="157.48" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="259.08" y="157.48" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
 <pinref part="RE_0_4" gate="G$2" pin="B"/>
 <wire x1="53.34" y1="152.4" x2="55.88" y2="152.4" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <label x="55.88" y="152.4" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
+</segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_B7"/>
+<wire x1="287.02" y1="172.72" x2="264.16" y2="172.72" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="172.72" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ENCODER0_L0" class="0">
@@ -3160,14 +2401,14 @@ dumbpad</text>
 <label x="55.88" y="175.26" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="11(MOSI)"/>
-<wire x1="307.34" y1="144.78" x2="314.96" y2="144.78" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="144.78" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-<segment>
 <pinref part="RE_3_0" gate="G$2" pin="B"/>
 <wire x1="93.98" y1="175.26" x2="96.52" y2="175.26" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <label x="96.52" y="175.26" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
+</segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D7"/>
+<wire x1="287.02" y1="152.4" x2="271.78" y2="152.4" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="266.7" y="152.4" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="ENCODER0_L1" class="0">
@@ -3175,11 +2416,6 @@ dumbpad</text>
 <wire x1="17.78" y1="180.34" x2="20.32" y2="180.34" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <label x="20.32" y="180.34" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
 <pinref part="RE_3_1" gate="G$2" pin="A"/>
-</segment>
-<segment>
-<pinref part="B1" gate="G$1" pin="4"/>
-<wire x1="284.48" y1="154.94" x2="266.7" y2="154.94" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="259.08" y="154.94" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
 </segment>
 <segment>
 <pinref part="RE_0_1" gate="G$2" pin="A"/>
@@ -3191,6 +2427,11 @@ dumbpad</text>
 <wire x1="93.98" y1="180.34" x2="96.52" y2="180.34" width="0.1524" layer="91" grouprefs="ENCODER_PINS"/>
 <label x="96.52" y="180.34" size="1.778" layer="95" grouprefs="ENCODER_PINS"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D0"/>
+<wire x1="287.02" y1="170.18" x2="264.16" y2="170.18" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="170.18" size="1.778" layer="95" grouprefs="TEENSY"/>
+</segment>
 </net>
 <net name="N$10" class="0">
 <segment>
@@ -3199,45 +2440,19 @@ dumbpad</text>
 <wire x1="149.86" y1="167.64" x2="144.78" y2="167.64" width="0.1524" layer="91" grouprefs="LEDS_RESISTORS"/>
 </segment>
 </net>
-<net name="NC/TX/D3" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="TXO"/>
-<wire x1="284.48" y1="170.18" x2="276.86" y2="170.18" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="271.78" y="170.18" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-</net>
-<net name="NC/RX/D2" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="RXI"/>
-<wire x1="284.48" y1="167.64" x2="276.86" y2="167.64" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="271.78" y="167.64" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-</net>
-<net name="RAW" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="RAW"/>
-<wire x1="307.34" y1="170.18" x2="314.96" y2="170.18" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="170.18" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
-</net>
 <net name="LED2" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="*10"/>
-<wire x1="307.34" y1="142.24" x2="314.96" y2="142.24" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="314.96" y="142.24" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="160.02" y1="157.48" x2="162.56" y2="157.48" width="0.1524" layer="91" grouprefs="LEDS_RESISTORS"/>
 <label x="162.56" y="157.48" size="1.778" layer="95" grouprefs="LEDS_RESISTORS"/>
 </segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D6"/>
+<wire x1="287.02" y1="154.94" x2="271.78" y2="154.94" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="271.78" y="154.94" size="1.778" layer="95" grouprefs="TEENSY"/>
+</segment>
 </net>
 <net name="COL0" class="0">
-<segment>
-<pinref part="B1" gate="G$1" pin="*5"/>
-<wire x1="284.48" y1="152.4" x2="266.7" y2="152.4" width="0.1524" layer="91" grouprefs="PRO_MICRO"/>
-<label x="266.7" y="152.4" size="1.778" layer="95" grouprefs="PRO_MICRO"/>
-</segment>
 <segment>
 <pinref part="RE_3_0" gate="G$1" pin="2"/>
 <wire x1="226.06" y1="119.38" x2="231.14" y2="119.38" width="0.1524" layer="91" grouprefs="SWITCHES"/>
@@ -3246,6 +2461,11 @@ dumbpad</text>
 <wire x1="218.44" y1="124.46" x2="218.44" y2="132.08" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <wire x1="218.44" y1="132.08" x2="190.5" y2="132.08" width="0.1524" layer="91" grouprefs="SWITCHES"/>
 <label x="190.5" y="132.08" size="1.778" layer="95" grouprefs="SWITCHES"/>
+</segment>
+<segment>
+<pinref part="_1" gate="G$1" pin="_D1"/>
+<wire x1="287.02" y1="167.64" x2="264.16" y2="167.64" width="0.1524" layer="91" grouprefs="TEENSY"/>
+<label x="264.16" y="167.64" size="1.778" layer="95" grouprefs="TEENSY"/>
 </segment>
 </net>
 <net name="N$20" class="0">
